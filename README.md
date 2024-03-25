@@ -104,7 +104,7 @@ so that we could learn pyhn in desi style.</p>
 <p><strong>QR Code</strong></p>
 <p><img src="fb.png" alt="QR"></p>
 <h1 id="10-adding-code-or-code-block">10-Adding code or code Block</h1>
-<p>we use (<code> </code>) for this purpose</p>
+<p>we use (`) for this purpose</p>
 <p>To print a string use <code>print(&quot;Codanics&quot;)</code></p>
 <p>If we want a block of code then use three of (`)</p>
 <pre class="hljs"><code><div>print(&quot;Hello Sir&quot;)
