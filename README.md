@@ -5,7 +5,7 @@ I have a completed a course for the Mardown language for VS code. the file shows
 <head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 
-<style>
+
 
 <h1 id="1-heading">1-Heading</h1>
 <p>How to give headings in markdown files?</p>
