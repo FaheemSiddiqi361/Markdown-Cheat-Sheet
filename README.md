@@ -3,7 +3,6 @@ I have a completed a course for the Mardown language for VS code. the file shows
 <!DOCTYPE html>
 <html>
 <head>
-<title>markdown.md</title>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 
 <style>
