@@ -204,7 +204,7 @@ z = x*y
 <a href="#12--cotents">12- Cotents</a><br>
 <a href="#13--adding-extensions">13- Extensions</a></p>
 <h1 id="13--adding-extensions">13- Adding extensions</h1>
-<p>markwin all in one etc</p>
+<p>markdown all in one extension</p>
 
 </body>
 </html>
